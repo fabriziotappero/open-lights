@@ -6,11 +6,11 @@ The following repository contains all drawings and electronic schematics for all
 
 Mechanical drawings are made using FreeCad and electronic schematics are made using KiCad 5.
 
-##Open Lights ONE
+## Open Lights ONE
 *ONE* is a 160W LED light from *Open Lights*.
 
 <p align="center">
-  <img src="https://github.com/fabriziotappero/open-lights/blob/master/img/open-lights-ONE.jpg?raw=true" alt=""/>
+  <img src="https://github.com/fabriziotappero/open-lights/blob/master/one/img/open-lights-ONE.jpg?raw=true" alt=""/>
 </p>
 
 ### Open Lights ONE Features
